@@ -14,12 +14,12 @@ MERN Stack
 npm i
 ```
 
-copy `.env-example` to `.env` and Add the Required ENV
+copy `.example.env` to `.env` and Add the Required ENV
 
 ## 2 🌱 Migrations
 
 ```sh
-node src/admin/migrations.js
+node migrate.js
 ```
 
 **super Admin credentials**
